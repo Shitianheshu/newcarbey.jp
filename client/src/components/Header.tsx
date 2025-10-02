@@ -4,7 +4,7 @@ import { useTheme } from '@/contexts/ThemeContext';
 import { useLanguage } from '@/contexts/LanguageContext';
 import { Button } from '@/components/ui/button';
 import { useState } from 'react';
-import logo from '../../../attached_assets/generated_images/1.png'
+import logo from '@assets/generated_images/1.png'
 export default function Header() {
   const [, setLocation] = useLocation();
   const { theme, toggleTheme } = useTheme();
@@ -21,10 +21,10 @@ export default function Header() {
   ];
   const customStyle = {
   display: "flex",
-  color: "#f8b76c",
   alignItems: "center",
   fontFamily: `"ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, メイリオ, Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", "ＭＳ ゴシック", "MS Gothic", "Noto Sans CJK JP", TakaoPGothic, sans-serif`,
   textIndent: "10px",
+  height:'50px',
   fontSize: "32px"
 };
 
@@ -35,8 +35,8 @@ export default function Header() {
           <Link href="/">
             <a data-testid="link-home" className="flex items-center space-x-2 hover-elevate px-3 py-2 rounded-md">
               <span style={customStyle} className="text-xl font-bold font-heading text-primary">
-                <img src={logo} width={100} height={100} />
-                <h5>Carbay</h5>
+                <img src={logo} className='logo' width={100} height={100} />
+                <h5 className='logo-title'>Carbay</h5>
               </span>
             </a>
           </Link>
