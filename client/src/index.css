@@ -324,8 +324,13 @@
   .border.hover-elevate:not(.no-hover-interaction-elevate)::after {
     inset: -1px;
   }
+  .logo-title{
+    color: #455055;
+    font-family: cursive;
+  }
   .dark .logo-title{
     color: #cdc0b8;
+    font-family: cursive;
   }
   .dark .logo{
     filter: invert(1);
