@@ -1,4 +1,4 @@
-pls make websites. regarding features is just the same with carbey.jp. regarding style is wonderful and perfect responsive and mobile responsive and all features is working including backend and so on.
+pls make websites. regarding features is just the same with carbay.jp. regarding style is wonderful and perfect responsive and mobile responsive and all features is working including backend and so on.
 
 all request has to be worked.
 and nice animation effect and  cars with simple and nice and wonderful.
@@ -23,9 +23,9 @@ clean code.
 Next.js, tailwindcss, vite, node, so on. all code has to be typescript
 
 refer:
--What is Carbey
+-What is carbay
 
-ABOUT Carbey
+ABOUT carbay
 What is Carvey?
 
 MISSION
@@ -36,7 +36,7 @@ The latest technology makes buying and selling used cars easier.
 Until now, "selling a car"
 has been limited to a select few people with a lot of experience and a lot of assets.
 
-Carbey uses its own proprietary data analysis and automated trading system
+carbay uses its own proprietary data analysis and automated trading system
 to remove this barrier to entry and provide
 a franchise system that allows anyone, even those with no experience, to start a profitable car dealership .
 
@@ -51,7 +51,7 @@ We will create a society where anyone can start a profitable car dealership busi
 The used car market is worth approximately 5 trillion yen, so there is a high possibility of success . It also has a broad social role, creating a future in which
 individuals and small and medium-sized businesses play key roles.
 
-Carbey's Strengths
+carbay's Strengths
 STRENGTHS 1
 The industry's first automated used car buying and selling system
 By utilizing this system, the franchise management headquarters
@@ -63,7 +63,7 @@ In-house developed research system
 If you don't know how to research used car market prices,
 you often end up overpaying and losing money.
 This can scare first-time buyers away from the research process, leading them to forgo entry.
-Carbey uses its own AI data analysis technology, including demand forecasting based on massive amounts of data from big data
+carbay uses its own AI data analysis technology, including demand forecasting based on massive amounts of data from big data
 analysis and systems that use statistics such as random forest analysis, to provide a system environment in which franchisees
 can easily get started .
 
@@ -124,7 +124,7 @@ Mechanisms to support cash flow
 
 We develop and operate an online factoring system, providing speedy support for our members and clients in managing their finances.
 
-Carbey will support your challenges through two businesses.
+carbay will support your challenges through two businesses.
 
 
 Request information
@@ -147,7 +147,7 @@ Traditionally, selling used cars was a business that only a select few could aff
 
 We want to overcome the social issues facing the used car industry and the current restrictive framework to realize a future where anyone can become a profitable car dealer.
 
-Carbey believes that by having more people use its franchise system, which combines its proprietary research system and automated trading system, it can eliminate various social issues and barriers to entry.
+carbay believes that by having more people use its franchise system, which combines its proprietary research system and automated trading system, it can eliminate various social issues and barriers to entry.
 
 By providing a franchise system that allows for continuous profit accumulation, we will bring new business possibilities to more people.
 We will build a fair and transparent used car market and create an environment where anyone who takes on the challenge can succeed.
@@ -204,7 +204,7 @@ Revolutionizing the used car market with innovative thinking
 Philosophy
 philosophy
 
-At Carbey, we aim to create a society where anyone can become a car dealer, and
+At carbay, we aim to create a society where anyone can become a car dealer, and
 we are creating a new global standard for car distribution.
 
 By utilizing the latest AI technology and big data analysis based on statistics, we can reduce the burden of purchasing used cars, which is highly dependent on individual skills, to the maximum extent possible, and enable quick decision-making.
@@ -238,7 +238,7 @@ Significance of existence
 
 Although Japan's used car market is huge, the system remains largely opaque and the barriers to entry are high.
 
-Carbey will transform this huge market into a "grand field in which anyone can participate," contributing to the creation of new ways of working and prosperous local communities.
+carbay will transform this huge market into a "grand field in which anyone can participate," contributing to the creation of new ways of working and prosperous local communities.
 
 Message from the CEO
 About five years ago, our management team was each running separate businesses.
@@ -253,14 +253,14 @@ At one time, we were facing an economic crisis caused by the coronavirus, and at
 
 If things continued as they were, the entire industry would be in danger. When this situation arose, I started thinking about what we could do if we applied the system I had developed in-house and made it available to many people.
 
-At this time, the management team agreed that "if we had a structured business model, anyone could participate, and if the revenue base was stable, anyone who wanted to start selling used cars could succeed." After verifying various options and being convinced that there were no problems with the scheme, we launched Carbey.
+At this time, the management team agreed that "if we had a structured business model, anyone could participate, and if the revenue base was stable, anyone who wanted to start selling used cars could succeed." After verifying various options and being convinced that there were no problems with the scheme, we launched carbay.
 
-We will continue to forge ahead with our business with the belief that "Carbey's success depends on the success of our franchisees."
+We will continue to forge ahead with our business with the belief that "carbay's success depends on the success of our franchisees."
 
 Representative Director Atsuhiro Yamaoka
 
 Roadmap
-Carbey's growth strategy and expansion plans for each phase
+carbay's growth strategy and expansion plans for each phase
 
 -Inquiry, request information
  CONTACT

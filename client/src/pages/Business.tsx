@@ -78,7 +78,7 @@ export default function Business() {
       <section className="py-20 px-4 sm:px-6 lg:px-8 bg-card">
         <div className="max-w-4xl mx-auto text-center">
           <h3 className="text-2xl md:text-3xl font-bold font-heading mb-6">
-            Carbeyは2つの事業であなたのチャレンジをサポートします
+            carbayは2つの事業であなたのチャレンジをサポートします
           </h3>
           <p className="text-lg text-muted-foreground">
             資金調達から運営まで、包括的なサポート体制であなたの成功を後押しします。

@@ -55,7 +55,7 @@ export default function Philosophy() {
               <h3 className="text-3xl font-bold font-heading">理念</h3>
             </div>
             <p className="text-lg text-muted-foreground leading-relaxed max-w-4xl mx-auto text-center">
-              Carbeyでは、誰もが車屋になれる社会を目指し、車の流通における新しいグローバルスタンダードを創造しています。
+              carbayでは、誰もが車屋になれる社会を目指し、車の流通における新しいグローバルスタンダードを創造しています。
             </p>
             <p className="text-lg text-muted-foreground leading-relaxed max-w-4xl mx-auto text-center mt-4">
               統計に基づいた最新のAI技術やビッグデータ分析を活用することで、個人のスキルに大きく依存していた中古車の仕入れ負担を最大限軽減し、スピーディな意思決定を実現します。
@@ -114,7 +114,7 @@ export default function Philosophy() {
               日本の中古車市場は巨大である一方、制度は不透明なままであり、参入障壁が高い状況が続いています。
             </p>
             <p className="text-lg text-muted-foreground leading-relaxed max-w-4xl mx-auto text-center mt-4">
-              Carbeyは、この巨大な市場を「誰もが参加できる壮大なフィールド」へと変革し、新たな働き方や豊かな地域社会づくりに貢献します。
+              carbayは、この巨大な市場を「誰もが参加できる壮大なフィールド」へと変革し、新たな働き方や豊かな地域社会づくりに貢献します。
             </p>
           </Card>
 
@@ -146,10 +146,10 @@ export default function Philosophy() {
                   このままでは業界全体が危機に陥る。この状況が生じた時、自社で開発したシステムを多くの方に利用していただければ、私たちに何ができるかを考え始めました。
                 </p>
                 <p>
-                  この時、経営陣の間で「仕組み化されたビジネスモデルがあれば誰でも参加でき、収益基盤が安定していれば、中古車販売を始めたいと思う誰もが成功できる」という共通認識が生まれました。様々な選択肢を検証し、スキームに問題がないことを確信した上で、Carbeyを立ち上げました。
+                  この時、経営陣の間で「仕組み化されたビジネスモデルがあれば誰でも参加でき、収益基盤が安定していれば、中古車販売を始めたいと思う誰もが成功できる」という共通認識が生まれました。様々な選択肢を検証し、スキームに問題がないことを確信した上で、carbayを立ち上げました。
                 </p>
                 <p className="font-semibold text-foreground">
-                  「Carbeyの成功は、加盟店の皆様の成功にかかっている」という信念のもと、今後も事業を推進してまいります。
+                  「carbayの成功は、加盟店の皆様の成功にかかっている」という信念のもと、今後も事業を推進してまいります。
                 </p>
                 <p className="text-right font-semibold text-foreground mt-6">代表取締役 山岡 淳弘</p>
               </div>

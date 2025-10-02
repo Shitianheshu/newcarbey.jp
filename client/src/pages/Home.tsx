@@ -32,7 +32,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto">
           <SectionTitle
             label={t('strengths')}
-            title="Carbeyの強み"
+            title="carbayの強み"
             centered={true}
           />
           
@@ -97,7 +97,7 @@ export default function Home() {
             資料請求・お問い合わせ
           </h2>
           <p className="text-lg text-muted-foreground mb-8">
-            Carbeyのフランチャイズシステムについて詳しく知りたい方は、お気軽にお問い合わせください。
+            carbayのフランチャイズシステムについて詳しく知りたい方は、お気軽にお問い合わせください。
           </p>
           <Button
             size="lg"

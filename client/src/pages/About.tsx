@@ -16,7 +16,7 @@ export default function About() {
         <div className="relative max-w-4xl mx-auto text-center">
           <SectionTitle
             label="ABOUT"
-            title="Carbeyについて"
+            title="carbayについて"
             subtitle="最新技術で中古車売買をもっと簡単に"
             centered={true}
           />
@@ -60,7 +60,7 @@ export default function About() {
           <div>
             <SectionTitle
               label={t('strengths')}
-              title="Carbeyの3つの強み"
+              title="carbayの3つの強み"
               centered={true}
             />
             
