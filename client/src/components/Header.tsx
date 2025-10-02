@@ -4,7 +4,7 @@ import { useTheme } from '@/contexts/ThemeContext';
 import { useLanguage } from '@/contexts/LanguageContext';
 import { Button } from '@/components/ui/button';
 import { useState } from 'react';
-
+import logo from '../../../attached_assets/generated_images/1.png'
 export default function Header() {
   const [, setLocation] = useLocation();
   const { theme, toggleTheme } = useTheme();
@@ -19,6 +19,14 @@ export default function Header() {
     { path: '/philosophy', label: t('philosophy') },
     { path: '/contact', label: t('contact') },
   ];
+  const customStyle = {
+  display: "flex",
+  color: "#f8b76c",
+  alignItems: "center",
+  fontFamily: `"ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, メイリオ, Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", "ＭＳ ゴシック", "MS Gothic", "Noto Sans CJK JP", TakaoPGothic, sans-serif`,
+  textIndent: "10px",
+  fontSize: "32px"
+};
 
   return (
     <header className="fixed top-0 left-0 right-0 z-50 backdrop-blur-md bg-background/90 border-b border-border">
@@ -26,7 +34,10 @@ export default function Header() {
         <div className="flex items-center justify-between h-16">
           <Link href="/">
             <a data-testid="link-home" className="flex items-center space-x-2 hover-elevate px-3 py-2 rounded-md">
-              <span className="text-xl font-bold font-heading text-primary">Carbay</span>
+              <span style={customStyle} className="text-xl font-bold font-heading text-primary">
+                <img src={logo} width={100} height={100} />
+                <h5>Carbay</h5>
+              </span>
             </a>
           </Link>
 
