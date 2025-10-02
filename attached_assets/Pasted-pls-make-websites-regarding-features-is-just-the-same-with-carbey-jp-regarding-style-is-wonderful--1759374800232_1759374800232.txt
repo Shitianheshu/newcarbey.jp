@@ -1,0 +1,278 @@
+pls make websites. regarding features is just the same with carbey.jp. regarding style is wonderful and perfect responsive and mobile responsive and all features is working including backend and so on.
+
+all request has to be worked.
+and nice animation effect and  cars with simple and nice and wonderful.
+and dark and light features.
+and language select features.
+and register and login (with gmail, with github)
+and 
+and include "Carbay Co., Ltd.
+Sanshi Building 3A, 1-21-12 Asahicho, Atsugi City, Kanagawa Prefecture, 243-0014
+046-210-4561
+Business hours: Weekdays 9:00-18:00
+Closed: Saturdays, Sundays, and holidays
+
+Contact us by email" in footer.
+all has to be japanese style and wonderful and perfect and clean style.
+and all action has to be work
+ all action(detail, subcontent,  as well) has to be worked.
+when some button is clicked, it has to be worked and display according to that button.
+
+all has to be worked very well regarding responsive, integrate with backend.
+clean code.
+Next.js, tailwindcss, vite, node, so on. all code has to be typescript
+
+refer:
+-What is Carbey
+
+ABOUT Carbey
+What is Carvey?
+
+MISSION
+What we want to achieve
+
+The latest technology makes buying and selling used cars easier.
+
+Until now, "selling a car"
+has been limited to a select few people with a lot of experience and a lot of assets.
+
+Carbey uses its own proprietary data analysis and automated trading system
+to remove this barrier to entry and provide
+a franchise system that allows anyone, even those with no experience, to start a profitable car dealership .
+
+VISION
+The future we aim for
+
+Make a profitable car dealership accessible to everyone.
+
+You can start even if you have no experience or a low budget.
+We will create a society where anyone can start a profitable car dealership business.
+
+The used car market is worth approximately 5 trillion yen, so there is a high possibility of success . It also has a broad social role, creating a future in which
+individuals and small and medium-sized businesses play key roles.
+
+Carbey's Strengths
+STRENGTHS 1
+The industry's first automated used car buying and selling system
+By utilizing this system, the franchise management headquarters
+will centrally manage and act on your behalf from research to purchasing and sales.
+Franchisees do not have to bear inventory risk, and anyone can easily get started.
+
+STRENGTHS 2
+In-house developed research system
+If you don't know how to research used car market prices,
+you often end up overpaying and losing money.
+This can scare first-time buyers away from the research process, leading them to forgo entry.
+Carbey uses its own AI data analysis technology, including demand forecasting based on massive amounts of data from big data
+analysis and systems that use statistics such as random forest analysis, to provide a system environment in which franchisees
+can easily get started .
+
+STRENGTHS 3
+Building a stable, continuous revenue base
+Members receive sales profits on a monthly basis, allowing them to accumulate
+revenue continuously without the burden of daily operations .
+
+Company Profile
+Company Name	Carbay Co., Ltd.
+location	
+Sanshi Building 3A, 1-21-12 Asahicho, Atsugi City, Kanagawa Prefecture, 243-0014
+Establishment	June 2025
+representative	Representative Director Atsuhiro Yamaoka
+TEL	046-210-4561
+capital	3 million yen
+advisor	
+Attorney: Nagatsu Law Office
+Tax accountant: Ichinohe Tax Accountant Office
+Major Clients	
+ORIX Auto Corporation
+USS Co., Ltd.
+Aucnet Co., Ltd.
+zero Inc.
+Recruit Co., Ltd.
+Proto Corporation and others
+
+
+*****
+-Business Content
+
+
+BUSINESS
+Business content
+
+Development and operation of a used car sales franchise system
+Providing a system where anyone can become a car dealer
+
+We utilize AI data analysis and an automated buying and selling system to centrally manage everything from vehicle storage to management. We operate a franchise system that allows you to enter the used car sales business without having to take on inventory risk.
+
+Funding support and management consulting
+We offer a wide variety of support methods for raising business funds.
+
+Japan Finance Corporation, city system loans, prefecture system loans, credit unions, loan systems with guarantee associations, small and medium-sized business guarantee systems, and startup loans
+
+Providing in-house developed AI data analysis
+Providing optimal purchasing decisions guided by statistical big data
+
+We analyze big data and calculate the demand, turnover, and sales volume for each vehicle model, enabling optimal sales and purchases while minimizing the risk of purchasing mistakes and unsold items.
+
+Development and operation of automated used car buying and selling systems
+Everything from purchasing to sales is automated in one place.
+
+Designed to centrally manage the entire process up to sales, we provide a fully automated buying and selling system that allows members to earn profits without any hassle.
+
+Factoring system development and operation
+Mechanisms to support cash flow
+
+We develop and operate an online factoring system, providing speedy support for our members and clients in managing their finances.
+
+Carbey will support your challenges through two businesses.
+
+
+Request information
+
+White Paper
+
+
+
+*******
+-Company information
+
+COMPANY
+Company Information
+
+Message from the President
+letter salutation.
+
+Traditionally, selling used cars was a business that only a select few could afford, requiring extensive experience and a large amount of capital.
+
+
+We want to overcome the social issues facing the used car industry and the current restrictive framework to realize a future where anyone can become a profitable car dealer.
+
+Carbey believes that by having more people use its franchise system, which combines its proprietary research system and automated trading system, it can eliminate various social issues and barriers to entry.
+
+By providing a franchise system that allows for continuous profit accumulation, we will bring new business possibilities to more people.
+We will build a fair and transparent used car market and create an environment where anyone who takes on the challenge can succeed.
+
+Representative Director Atsuhiro Yamaoka
+
+Company Profile
+Company Name	
+Carbay Co., Ltd.
+location	
+Sanshi Building 3A, 1-21-12 Asahicho, Atsugi City, Kanagawa Prefecture, 243-0014
+Establishment	
+June 2025
+representative	
+Representative Director Atsuhiro Yamaoka
+TEL	
+046-210-4561
+capital	
+3 million yen
+advisor	
+Lawyer: ITJ Law Office Tax Accountant: Ichinohe Tax Accountant Office
+Major Clients	
+ORIX Auto Corporation USS Corporation Aucnet Corporation Zero Corporation Recruit Proto Corporation and others
+access
+Head Office
+
+View enlarged map
+Access
+●
+3 minutes walk from the East Exit of Hon-Atsugi Station on the Odakyu Line
+
+●
+15 minutes walk from Atsugi Station on the JR Sagami Line
+
+●
+10 minutes by car from Atsugi IC on the Tomei Expressway
+
+History
+2023
+Concept launch and market research
+2024
+System development and preparation for incorporation
+2025
+Company establishment and service launch
+2026
+Service expansion and nationwide expansion
+
+************
+-Corporate philosophy
+PHILOSOPHY
+Corporate philosophy
+Revolutionizing the used car market with innovative thinking
+
+Philosophy
+philosophy
+
+At Carbey, we aim to create a society where anyone can become a car dealer, and
+we are creating a new global standard for car distribution.
+
+By utilizing the latest AI technology and big data analysis based on statistics, we can reduce the burden of purchasing used cars, which is highly dependent on individual skills, to the maximum extent possible, and enable quick decision-making.
+
+We provide a system that allows franchisees to take on business ventures with peace of mind, by minimizing the time required for purchasing goods, increasing their own free time, and making it easier to establish a relaxed work structure with less burden.
+
+Values
+values
+
+challenge
+Breaking the conventional wisdom and creating a new form of distribution
+
+trust
+Prioritize trust with franchisees, customers, and partners
+
+growth
+As our members grow, we continue to evolve.
+
+co-creation
+Connecting the power of individuals and spreading value throughout society
+
+Credo
+behavioral guidelines
+
+All our decisions are based on the principle of "Are we able to make a profit with peace of mind?"
+
+We are always open about our decisions and trading status based on numbers and data, and we value sharing information.
+
+Why we exist
+Significance of existence
+
+Although Japan's used car market is huge, the system remains largely opaque and the barriers to entry are high.
+
+Carbey will transform this huge market into a "grand field in which anyone can participate," contributing to the creation of new ways of working and prosperous local communities.
+
+Message from the CEO
+About five years ago, our management team was each running separate businesses.
+
+One day, while running a used car dealership, I met the current members of our management team.
+
+They hit it off and decided to join forces.
+
+Although we faced many difficulties, we were able to achieve great results by bringing together our respective strengths and sharing the good times and the bad.
+
+At one time, we were facing an economic crisis caused by the coronavirus, and at another time, we were facing strong public criticism due to a scandal at a major used car dealership, and we are keenly aware that a pessimistic mood is pervading the entire industry due to an unprecedented economic downturn and a damage to our image.
+
+If things continued as they were, the entire industry would be in danger. When this situation arose, I started thinking about what we could do if we applied the system I had developed in-house and made it available to many people.
+
+At this time, the management team agreed that "if we had a structured business model, anyone could participate, and if the revenue base was stable, anyone who wanted to start selling used cars could succeed." After verifying various options and being convinced that there were no problems with the scheme, we launched Carbey.
+
+We will continue to forge ahead with our business with the belief that "Carbey's success depends on the success of our franchisees."
+
+Representative Director Atsuhiro Yamaoka
+
+Roadmap
+Carbey's growth strategy and expansion plans for each phase
+
+-Inquiry, request information
+ CONTACT
+お問い合わせ
+
+資料に関するお問い合わせ・ビジネスのご相談・採用についてお気軽にお問い合わせください。
+
+会社名
+氏名
+メールアドレス
+携帯電話
+お問い合わせ内容
+プライバシーポリシーに同意する
+送信
+
